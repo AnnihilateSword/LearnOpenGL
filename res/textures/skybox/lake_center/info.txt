@@ -1,0 +1,6 @@
+E:\ModelAssembly\build\SkyBox\skybox\back.jpg
+E:\ModelAssembly\build\SkyBox\skybox\bottom.jpg
+E:\ModelAssembly\build\SkyBox\skybox\front.jpg
+E:\ModelAssembly\build\SkyBox\skybox\left.jpg
+E:\ModelAssembly\build\SkyBox\skybox\right.jpg
+E:\ModelAssembly\build\SkyBox\skybox\top.jpg

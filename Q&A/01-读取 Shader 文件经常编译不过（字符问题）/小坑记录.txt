@@ -1,0 +1,5 @@
+1. Shader 经常编译不过，很奇怪的现象，之前没碰到过
+	【可能是 VSCode 问题】
+	
+	1. gl_Position 跟上下行尽量空一行，注释也一样
+	2. 避免使用中文注释在 VSCode 中，shader 和 cpp 都一样
